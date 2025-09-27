@@ -54,5 +54,13 @@ Open your browser at: http://localhost:5000<br>
 3. Admin interface<br>
 The PyQt6 desktop window will open automatically, allowing you to: Search visitors| View visitor details| Export records to Excel<br>
 
+# 📸 Screenshots
+
+<img width="672" height="470" alt="Screenshot 2025-09-27 at 6 40 13 PM" src="https://github.com/user-attachments/assets/8f8c10ca-860d-4c0e-aa01-94482ac9b904" />
+
+
+
+
+
 # 📜 License
 This project is licensed under the Encrypt Core – feel free to use and modify.<br>
